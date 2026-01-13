@@ -21,7 +21,7 @@ Caminho:
 iDRAC Settings → Network → SNMP Agent
 Configuração validada:
 
-<img src="iDRAC7-SNMP-Agent.jpg" alt="">
+<img src="../iDRAC7-SNMP-Agent.jpg" alt="">
 - Tela de configuração do SNMP Agent (como evidência)
 
 ---
@@ -92,7 +92,7 @@ Zabbix 5
 ```pgsql
 Configuration → Hosts → Create host
 ```
-<img src="Zabbix-Teste-iDRAC.jpg" alt="">
+<img src="../Zabbix-Teste-iDRAC.jpg" alt="">
 
 OBS.:
 Na aba Templates:
