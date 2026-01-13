@@ -22,6 +22,7 @@ iDRAC Settings → Network → SNMP Agent
 Configuração validada:
 
 <img src="../iDRAC7-SNMP-Agent.jpg" alt="">
+
 - Tela de configuração do SNMP Agent (como evidência)
 
 ---
@@ -29,6 +30,7 @@ Configuração validada:
 ## 2️⃣ Observação crítica sobre SNMP v1
 
 A iDRAC 7 **não permite desabilitar SNMP v1 isoladamente**.
+
 Essa é uma limitação conhecida do firmware.
 
 ### Mitigação recomendada
