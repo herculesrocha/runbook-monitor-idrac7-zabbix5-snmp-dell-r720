@@ -29,8 +29,7 @@ Configuração validada:
 
 ## 2️⃣ Observação crítica sobre SNMP v1
 
-A iDRAC 7 **não permite desabilitar SNMP v1 isoladamente**.
-
+A iDRAC 7 **não permite desabilitar SNMP v1 isoladamente**. \
 Essa é uma limitação conhecida do firmware.
 
 ### Mitigação recomendada
@@ -97,21 +96,21 @@ Configuration → Hosts → Create host
 <img src="../Zabbix-Teste-iDRAC.jpg" alt="">
 
 OBS.:
-Na aba Templates:
-* Associar o template Dell importado
+Na aba Templates: \
+* Associar o template Dell importado \
 Na parte `Comunidade SNMP` utilizar o mesmo parâmetro de `SNMP Community Name`
 
 ## 7️⃣ Validação no Zabbix
 Itens esperados:
-Status geral do hardware
-Temperaturas
-Fans
-Power Supplies
-Storage status
+* Status geral do hardware 
+* Temperaturas
+* Fans
+* Power Supplies
+* Storage status
 
 🔐 Boas práticas de segurança interna
-Criar VLAN exclusiva para gerenciamento
-Restringir UDP 161 via firewall
-Não reutilizar community SNMP
-Registrar acessos SNMP no firewall
+Criar VLAN exclusiva para gerenciamento \
+Restringir UDP 161 via firewall \
+Não reutilizar community SNMP \
+Registrar acessos SNMP no firewall \
 Planejar migração futura para SNMP v3
