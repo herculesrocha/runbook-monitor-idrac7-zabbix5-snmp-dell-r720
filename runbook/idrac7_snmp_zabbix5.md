@@ -96,7 +96,7 @@ Configuration → Hosts → Create host
 <img src="../Zabbix-Teste-iDRAC.jpg" alt="">
 
 OBS.:
-Na aba Templates: \
+Na aba Templates: 
 * Associar o template Dell importado \
 Na parte `Comunidade SNMP` utilizar o mesmo parâmetro de `SNMP Community Name`
 
