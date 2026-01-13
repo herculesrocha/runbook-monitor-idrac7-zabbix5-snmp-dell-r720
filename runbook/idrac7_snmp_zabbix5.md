@@ -110,7 +110,7 @@ Itens esperados:
 
 🔐 Boas práticas de segurança interna
 Criar VLAN exclusiva para gerenciamento  
-    - Restringir UDP 161 via firewall
-    - Não reutilizar community SNMP
-    - Registrar acessos SNMP no firewall
-    - Planejar migração futura para SNMP v3
+- Restringir UDP 161 via firewall
+- Não reutilizar community SNMP
+- Registrar acessos SNMP no firewall
+- Planejar migração futura para SNMP v3
