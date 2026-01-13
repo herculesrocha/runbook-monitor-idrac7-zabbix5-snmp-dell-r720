@@ -1,4 +1,4 @@
-# Monitoramento SNMP – Dell PowerEdge R720 (iDRAC 7) com Zabbix 5
+# Monitoramento SNMP – Dell PowerEdge R720 (iDRAC7) com Zabbix5
 
 Este repositório documenta o procedimento real e validado para
 monitoramento SNMP de um servidor Dell PowerEdge R720 utilizando
@@ -53,4 +53,4 @@ Apesar disso:
 
 📘 Procedimento detalhado:
 
-➡️ [runbook/idrac7_snmp_zabbix5.md](../runbook/idrac7_snmp_zabbix5.md)
+➡️ [runbook/idrac7_snmp_zabbix5.md](/runbook/idrac7_snmp_zabbix5.md)
